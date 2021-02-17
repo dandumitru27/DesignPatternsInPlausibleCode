@@ -5,12 +5,12 @@ I'll add in this repository examples that showcase design patterns the way peopl
 
 This is opposed to the purely didactical samples you might find online, that have silly situations where the design patterns are not really useful.
 
-I'll try to find the most appropriate example for each design pattern and adapt it to be clear and concise. I found the best ones so far on Wikipedia and on dofactory.com/net/design-patterns.
+I'll try to find the most appropriate example for each design pattern and adapt it to be clear and concise. I found the best ones so far on Wikipedia and on https://dofactory.com/net/design-patterns.
 
 Eventually I'll cover all of the 23 Gang of Four patterns.
 
 The 7 most important patterns (according to 
-medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e):
+https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e):
 
 1. **Singleton**: A class of which only a single instance can exist
 2. **Factory Method**: Creates an instance of several derived classes ***[done]***
@@ -20,7 +20,7 @@ medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e)
 6. **Adapter**: Match interfaces of different classes ***[done]***
 7. **State**: Alter an object's behavior when its state changes
 
-All the 23 Gang of Four patterns, from dofactory.com/net/design-patterns :
+All the 23 Gang of Four patterns, from https://dofactory.com/net/design-patterns :
 
 Creational:
 - **Abstract Factory**: Creates an instance of several families of classes
